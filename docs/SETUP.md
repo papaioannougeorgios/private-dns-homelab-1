@@ -1,6 +1,6 @@
 AdGuard dashboard:
 
-After following through the 5 step setup guide given to me by AdGuard, I went to DNS Settings and implemented these 3 upstream DNS servers.
+After following through the 5 step setup guide given to me by AdGuard, I went to the DNS Settings and implemented these 3 upstream DNS servers.
 
 ```
 https://dns.cloudflare-dns.com/dns-query
